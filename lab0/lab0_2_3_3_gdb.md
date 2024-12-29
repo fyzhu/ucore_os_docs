@@ -1,5 +1,5 @@
 
-#### gdb使用
+#### gdb 使用
 
 gdb 是功能强大的调试程序，可完成如下的调试任务：
 - 设置断点
@@ -32,6 +32,7 @@ gdb 是功能强大的调试程序，可完成如下的调试任务：
 表 gdb 的常用命令
 
 <table>
+<tr><td>命令</td><td>含义</td></tr>
 <tr><td>break FILENAME:NUM</td><td>在特定源文件特定行上设置断点</td></tr>
 <tr><td>clear FILENAME:NUM</td><td>删除设置在特定源文件特定行上的断点</td></tr>
 <tr><td>run</td><td>运行调试程序</td></tr>
